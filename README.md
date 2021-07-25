@@ -1,0 +1,2 @@
+# edb-fanout
+EinsteinDB Manager
